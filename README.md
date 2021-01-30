@@ -6,9 +6,9 @@ DesafioInmetrics-TDD>TestTDD.cs
 Favor Ignorar os scripts dentro da pasta Pages.
 
 # Novo Projeto em construção com as seguintes inclusões:
-BDD
-PageObjects
-Reports
+-BDD
+-PageObjects
+-Reports
 
 
 
