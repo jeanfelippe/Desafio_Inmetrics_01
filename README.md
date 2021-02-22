@@ -1,5 +1,5 @@
 # Desafio_Inmetrics_01
-Desafio Inicial com Testes Automatizados(TDD) Utilizando C#
+Desafio Inicial com Automação de Testes Utilizando .NET e SpecFlow
 
 Para executar o Teste, Acesse:
 DesafioInmetrics-TDD>TestTDD.cs
